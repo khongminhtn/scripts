@@ -1,0 +1,2 @@
+@echo off
+cmd /k "cd /d C:\Users\tuyen\Desktop\Projects\script-record-programming-hours/virtualenv/Scripts & activate & cd /d  C:\Users\tuyen\Desktop\Projects\script-record-programming-hours/script & python main.py"
